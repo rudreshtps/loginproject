@@ -1,0 +1,27 @@
+.headingTag{
+  background-color: rgb(45, 194, 194);
+  box-shadow: 1px 2px 10px 8px rgb(180, 210, 211);
+  border-radius: 20px;
+}
+
+.cardContent {
+  overflow: hidden;
+  transition: all 0.3s ease;
+  box-shadow: 1px 2px 10px 8px lightblue;
+}
+
+.cardContent:hover {
+  transform: scale(1.05);
+  box-shadow: 1px 2px 10px 8px rgb(70, 151, 155);
+
+}
+
+.cardBody{
+background-color: #6ba4a3;
+box-shadow: 1px 2px 10px 8px lightblue;
+}
+.cardTitle{
+outline: none;
+text-decoration-line: 'none';
+font-weight: bolder;
+}

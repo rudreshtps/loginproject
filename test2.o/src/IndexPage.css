@@ -1,0 +1,27 @@
+.main{
+  background-color: rgb(218, 227, 224);
+}
+.CardBody{
+  background-color: #9ad4d4;
+}
+.syllabusName{
+  font-size: larger;
+  font-weight: bolder;
+  background-color: #2dc2c2;
+  /* box-shadow: 1px 2px 10px 8px rgb(180, 210, 211); */
+  border-radius: 20px;
+}
+.sectionName{
+  font-size: larger;
+  font-weight: bolder;
+}
+.lists{
+  color: rgb(0, 0, 0);
+  font-size:medium;
+  /* background-color: #bfc4c4; */
+  
+}
+.lists:hover {
+  transform: scale(1.02);
+  box-shadow: 1px 2px 10px 8px rgb(78, 87, 87);
+}
